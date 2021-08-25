@@ -1,0 +1,10 @@
+{
+  "name": "walk-score-node",
+  "version": "1.0.0",
+  "dependencies": {
+    "khala-axios": "latest"
+  },
+  "devDependencies": {
+    "mocha": "latest-6"
+  }
+}
